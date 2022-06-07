@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ManejoPresupuesto",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Models",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared"
   ],
-  "SelectedNode": "\\C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC",
+  "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto.sln",
   "PreviewInSolutionExplorer": false
 }

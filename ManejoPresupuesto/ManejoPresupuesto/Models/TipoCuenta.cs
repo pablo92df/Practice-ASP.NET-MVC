@@ -1,19 +1,36 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ManejoPresupuesto.Validaciones;
+using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace ManejoPresupuesto.Models
 {
-    public class TipoCuenta
+    public class TipoCuenta //: IValidatableObject
     {
         public int Id { get; set; }
 
         [Required(ErrorMessage ="El campo {0} es requerido")]
-        [StringLength(maximumLength: 50, MinimumLength = 3, ErrorMessage ="La longitud del campo {0} debe estar entre {2} y {1}")]
-        [Display(Name = "nombre del tipo cuenta")]
+        [PrimeraLetraMayuscula]     //validacion personalizada
+        [Remote(action: "VerificarExisteTipoCuenta", controller: "TiposCuentas")]//validacion de que no exista este nombre para el usuario
+        //llama al metodo del controller solo
+   
         public string Nombre { get; set; }
         public int UsuarioId { get; set; }
         public int Orden { get; set; }
 
-        /*Pruebas de otras validaciones por defecto*/
+        //public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        //{
+        //    if (Nombre != null && Nombre.Length > 0) 
+        //    {
+        //        var primeraLetra = Nombre[0].ToString();
+
+        //        if (primeraLetra != primeraLetra.ToUpper()) 
+        //        {
+        //            yield return new ValidationResult("La primera letra debe ser mayuscula", new[] { nameof(Nombre) });
+        //        }
+        //    }
+        //}
+
+        /*Pruebas de otras validaciones por defecto
         [Required(ErrorMessage = "El campo {0} es requerido")]
         [EmailAddress(ErrorMessage ="El campo debe ser un mail valido")]
         public string Email { get; set; }
@@ -22,6 +39,6 @@ namespace ManejoPresupuesto.Models
         [Url(ErrorMessage ="El campo debe ser una URL valida")]
         public string URL { get; set; }
         [CreditCard(ErrorMessage ="La tarjeta de credito no es valida")]
-        public string TarjetaDeCredito { get; set; }
+        public string TarjetaDeCredito { get; set; }*/
     }
 }
