@@ -1,0 +1,21 @@
+﻿@model Categoria
+
+@{
+    ViewData["Title"] = "Crear Categoria";
+}
+
+<h5>Crear Categoria</h5>
+
+<form asp-action="Crear">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="mb-3">
+        <label asp-for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control"/>
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+     <div class="mb-3">
+        <label asp-for="TipoOperacionId" class="form-label"></label>
+       <select asp-for="TipoOperacionId" asp-items="Html.GetEnumSelectList<TipoOperacionId>()"></select>
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+</form>

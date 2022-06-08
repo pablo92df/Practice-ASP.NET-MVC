@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ManejoPresupuesto",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Models",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios",
+    "\\ManejoPresupuesto\\ManejoPresupuesto",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared"
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas"
   ],
   "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto.sln",
   "PreviewInSolutionExplorer": false

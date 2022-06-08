@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
+    "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
+    "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectUniqueName": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "projectName": "ManejoPresupuesto",
-        "projectPath": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+        "projectPath": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
         "packagesPath": "C:\\Users\\Pferreyra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+        "outputPath": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
