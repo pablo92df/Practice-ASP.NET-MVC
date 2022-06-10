@@ -4,7 +4,8 @@
     "\\ManejoPresupuesto",
     "\\ManejoPresupuesto\\ManejoPresupuesto",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas"
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones"
   ],
   "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto.sln",
   "PreviewInSolutionExplorer": false

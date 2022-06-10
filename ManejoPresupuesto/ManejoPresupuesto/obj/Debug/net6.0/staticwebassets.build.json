@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0ihzryp/kb4n2YuIt/ANTA+0x3V42uE0NIGNwSD3Vus=",
+  "Hash": "VHYagoq0YElV7EQ4AzTVIUOljilkphP374rsXkcjVlI=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ManejoPresupuesto",
       "RelativePath": "ManejoPresupuesto.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ManejoPresupuesto.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ManejoPresupuesto",
       "RelativePath": "ManejoPresupuesto.bundle.scp.css",
       "AssetKind": "All",
@@ -48,10 +48,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\Custom.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\Custom.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -68,7 +68,7 @@
       "OriginalItemSpec": "wwwroot\\css\\Custom.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\site.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -85,7 +85,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\favicon.ico",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -102,7 +102,24 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacciones.js",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "js/FormularioTransacciones.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FormularioTransacciones.js"
+    },
+    {
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -119,7 +136,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -136,7 +153,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -153,7 +170,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -170,7 +187,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -187,7 +204,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -204,7 +221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -221,7 +238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -238,7 +255,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -255,7 +272,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -272,7 +289,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -289,7 +306,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -306,7 +323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -323,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -340,7 +357,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -357,7 +374,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -374,7 +391,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -391,7 +408,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -408,7 +425,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -425,7 +442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -442,7 +459,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -459,7 +476,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -476,7 +493,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -493,7 +510,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -510,7 +527,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -527,7 +544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -544,7 +561,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -561,7 +578,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -578,7 +595,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -595,7 +612,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -612,7 +629,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -629,7 +646,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -646,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -663,7 +680,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -680,7 +697,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -697,7 +714,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -714,7 +731,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -731,7 +748,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -748,7 +765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -765,7 +782,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -782,7 +799,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -799,7 +816,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -816,7 +833,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -833,7 +850,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -850,7 +867,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -867,7 +884,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -884,7 +901,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -901,7 +918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -918,7 +935,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -935,7 +952,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -952,7 +969,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\AUTHORS.txt",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -969,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\AUTHORS.txt"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -986,7 +1003,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\external\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1003,7 +1020,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1020,7 +1037,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1037,7 +1054,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1054,7 +1071,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1071,7 +1088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1088,7 +1105,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\index.html",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\index.html",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1105,7 +1122,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1122,7 +1139,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1139,7 +1156,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1156,7 +1173,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1173,7 +1190,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1190,7 +1207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1207,7 +1224,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.structure.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1224,7 +1241,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1241,7 +1258,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\jquery-ui.theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\LICENSE.txt",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1258,7 +1275,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package.json",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-ui\\package.json",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1275,7 +1292,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ui\\package.json"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1292,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1309,7 +1326,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1326,7 +1343,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1343,7 +1360,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1360,7 +1377,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1377,7 +1394,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
@@ -1394,7 +1411,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Pferreyra\\Source\\Repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pferreyra\\source\\repos\\Practice-ASP.NET-MVC\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
