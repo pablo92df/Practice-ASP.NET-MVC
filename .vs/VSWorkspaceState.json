@@ -3,9 +3,12 @@
     "",
     "\\ManejoPresupuesto",
     "\\ManejoPresupuesto\\ManejoPresupuesto",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Models",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones"
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\TiposCuentas"
   ],
   "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto.sln",
   "PreviewInSolutionExplorer": false

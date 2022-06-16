@@ -12,13 +12,22 @@ namespace ManejoPresupuesto.Controllers
         private readonly IServiciosUsuarios serviciosUsuarios;
         private readonly IRepositorioCuentas repositorioCuentas;
         private readonly IMapper mapper;
+        private readonly IRepositorioTransacciones repositorioTransacciones;
+        private readonly IServicioReportes servicioReportes;
 
-        public CuentasController(IRepositorioTiposCuentas repositorioTiposCuentas, IServiciosUsuarios serviciosUsuarios, IRepositorioCuentas repositorioCuentas, IMapper mapper)
+        public CuentasController(IRepositorioTiposCuentas repositorioTiposCuentas,
+            IServiciosUsuarios serviciosUsuarios,
+            IRepositorioCuentas repositorioCuentas,
+            IMapper mapper,
+            IRepositorioTransacciones repositorioTransacciones,
+            IServicioReportes servicioReportes)
         {
             this.repositorioTiposCuentas = repositorioTiposCuentas;
             this.serviciosUsuarios = serviciosUsuarios;
             this.repositorioCuentas = repositorioCuentas;
             this.mapper = mapper;
+            this.repositorioTransacciones = repositorioTransacciones;
+            this.servicioReportes = servicioReportes;
         }
 
         public async Task<IActionResult> Index()
@@ -36,7 +45,22 @@ namespace ManejoPresupuesto.Controllers
 
             return View(modelo);
         }
+        public async Task<IActionResult> Detalle(int id, int mes, int anio) 
+        {
+            var usuarioId = serviciosUsuarios.ObtenerUsuarioId();
+            var cuenta = await repositorioCuentas.ObtenerPorId(id, usuarioId);
 
+            if (cuenta is null) 
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+            }
+           
+            ViewBag.Cuenta = cuenta.Nombre;
+
+            var modelo = await servicioReportes.ObtenerReporteTransaccionesDetalladasPorCuenta(usuarioId, id, mes, anio, ViewBag);
+
+            return View(modelo);
+        }
 
         [HttpGet]
         public async Task<IActionResult> Crear()
