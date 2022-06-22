@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ManejoPresupuesto
 build_property.RootNamespace = ManejoPresupuesto
-build_property.ProjectDir = C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\
+build_property.ProjectDir = C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto
+build_property.MSBuildProjectDirectory = C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Pferreyra/source/repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Borrar.cshtml]
@@ -63,8 +63,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Pferreyra/source/repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_NavegarPorMeses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZlZ2FyUG9yTWVzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Pferreyra/source/repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_ReporteTransaccionesDetalladas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXBvcnRlVHJhbnNhY2Npb25lc0RldGFsbGFkYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pferreyra/source/repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_ResumenMonto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXN1bWVuTW9udG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pferreyra/source/repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_ValidationScriptsPartial.cshtml]

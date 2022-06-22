@@ -86,3 +86,7 @@ C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPre
 C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
 C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll

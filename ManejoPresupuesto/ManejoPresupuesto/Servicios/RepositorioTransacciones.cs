@@ -13,6 +13,7 @@ namespace ManejoPresupuesto.Servicios
         Task<IEnumerable<Transaccion>> ObtenerPorUsuarioId(ParametroObtenerTransaccionesPorUsuario modelo);
         Task<Transaccion> ObtenerPorId(int id, int usuarioId);
         Task<IEnumerable<ResultadoObtenerPorSemana>> ObtenerPorSemana(ParametroObtenerTransaccionesPorUsuario modelo);
+        Task<IEnumerable<ResultadoObtenerPorMes>> ObtenerPorMes(int usuarioId, int anio);
     }
     public class RepositorioTransacciones: IRepositorioTransacciones
     {
@@ -54,20 +55,33 @@ namespace ManejoPresupuesto.Servicios
         public async Task<IEnumerable<ResultadoObtenerPorSemana>> ObtenerPorSemana(ParametroObtenerTransaccionesPorUsuario modelo)
         {
             using var connection = new SqlConnection(connectionString);
-            return await connection.QueryAsync<ResultadoObtenerPorSemana>(@"SELECT datediff(d, @fechaInicio, FechaTransaccion) / 7 +1 as Semana,
+            return await connection.QueryAsync<ResultadoObtenerPorSemana>(@"SELECT datediff(d, @fechaInicio, FechaTransaccion) / 7 + 1 as Semana,
                                                                                 SUM(Monto) as Monto, cat.TipoOperacionId
                                                                                 FROM Transacciones
-                                                                                INNER JOIN Categoria cat
+                                                                                INNER JOIN Categorias cat
                                                                                 ON cat.Id = Transacciones.CategoriaId
                                                                                 WHERE Transacciones.UsuarioId = @usuarioId 
                                                                                 AND FechaTransaccion 
                                                                                 BETWEEN @fechaInicio and @fechaFin 
-                                                                                GROUP BY datediff(d, @fechaInicio, FechaTransaccion) /, cat.TipoOperacionId", modelo);
+                                                                                GROUP BY datediff(d, @fechaInicio, FechaTransaccion) /7, cat.TipoOperacionId", modelo);
+        }
+
+        public async Task<IEnumerable<ResultadoObtenerPorMes>> ObtenerPorMes(int usuarioId, int anio)
+        {
+
+            using var connection = new SqlConnection(connectionString);
+            return await connection.QueryAsync<ResultadoObtenerPorMes>(@"SELECT MONTH(FechaTransaccion) as Mes, 
+                                                                        SUM(Monto) as Monto, cat.TipoOperacionId
+                                                                        FROM Transacciones
+                                                                        INNER JOIN Categorias cat
+                                                                        ON cat.Id = Transacciones.CategoriaId
+                                                                        WHERE Transacciones.UsuarioId = @usuarioId AND YEAR(FechaTransaccion) = @Anio
+                                                                        GROUP By MONTH(FechaTransaccion), cat.TipoOperacionId",new { usuarioId, anio} );
         }
         public async Task<IEnumerable<Transaccion>> ObtenerPorUsuarioId(ParametroObtenerTransaccionesPorUsuario modelo)
         {
             using var connection = new SqlConnection(connectionString);
-            return await connection.QueryAsync<Transaccion>(@"SELECT t.Id, t.Monto, t.FechaTransaccion, c.Nombre as Categoria, cu.Nombre as Cuenta, c.TipoOperacionId
+            return await connection.QueryAsync<Transaccion>(@"SELECT t.Id, t.Monto, t.FechaTransaccion, c.Nombre as Categoria, cu.Nombre as Cuenta, c.TipoOperacionId, t.Nota
                                                             FROM Transacciones t 
                                                             INNER JOIN Categorias c 
                                                             on c.Id = t.CategoriaId 
