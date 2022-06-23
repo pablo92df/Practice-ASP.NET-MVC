@@ -11,6 +11,6 @@
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\TiposCuentas",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones"
   ],
-  "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\UsuarioStore.cs",
   "PreviewInSolutionExplorer": false
 }
