@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ManejoPresupuesto
 build_property.RootNamespace = ManejoPresupuesto
-build_property.ProjectDir = C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\
+build_property.ProjectDir = C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pferreyra\source\repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto
+build_property.MSBuildProjectDirectory = C:\Users\Pferreyra\Source\Repos\Practice-ASP.NET-MVC\ManejoPresupuesto\ManejoPresupuesto
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Categorias/Borrar.cshtml]
@@ -61,6 +61,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Shared/_NavegarPorMeses.cshtml]
@@ -125,6 +129,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Transacciones/_Submenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xfU3VibWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/Usuarios/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX2xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pferreyra/Source/Repos/Practice-ASP.NET-MVC/ManejoPresupuesto/ManejoPresupuesto/Views/_ViewImports.cshtml]

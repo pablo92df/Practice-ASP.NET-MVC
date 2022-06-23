@@ -2,12 +2,16 @@
 using ClosedXML.Excel;
 using ManejoPresupuesto.Models;
 using ManejoPresupuesto.Servicios;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Data;
 
 namespace ManejoPresupuesto.Controllers
 {
+    //pongo authorize a nivel de controlador asi se aplica a todas las acciones del controlador
+    //[Authorize]
+
     public class TransaccionesController : Controller
     {
         private readonly IServiciosUsuarios serviceUsuario;
@@ -40,7 +44,6 @@ namespace ManejoPresupuesto.Controllers
             modelo.Categorias = await ObtenerCategorias(usuarioId, modelo.TipoOperacionId);
             return View(modelo);
         }
-
         public async Task<IActionResult> Index(int mes, int anio)
         {
             var usuarioId = serviceUsuario.ObtenerUsuarioId();

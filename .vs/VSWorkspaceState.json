@@ -3,14 +3,14 @@
     "",
     "\\ManejoPresupuesto",
     "\\ManejoPresupuesto\\ManejoPresupuesto",
-    "\\ManejoPresupuesto\\ManejoPresupuesto\\Models",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Home",
+    "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\TiposCuentas",
     "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones"
   ],
-  "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\ExcelReporte.cshtml",
+  "SelectedNode": "\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
